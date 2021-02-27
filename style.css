@@ -47,7 +47,8 @@ body {
   #editor-container #editor {
     box-sizing: border-box;
     border: 0.6rem solid rgba(36, 111, 146, 0.973);
-    background: rgba(76, 188, 240, 0.68); }
+    background: rgba(76, 188, 240, 0.68);
+    content: "guru"; }
 
 #preview-container {
   text-align: center;
