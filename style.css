@@ -19,6 +19,9 @@ body {
   background: #e68a22; }
 
 .header {
+  top: 0;
+  left: 0;
+  width: 100%;
   margin-top: 0;
   padding: 0;
   background: #e68a22; }
@@ -51,7 +54,6 @@ body {
     content: "guru"; }
 
 #preview-container {
-  text-align: center;
   margin-top: 0px; }
   #preview-container #preview {
     background: #e9b4b9;
@@ -64,6 +66,7 @@ body {
     border: 0.8rem solid #a8686e;
     margin: auto; }
   #preview-container #preview-label {
+    text-align: center;
     color: white;
     margin: 0;
     font-size: 2rem; }
@@ -72,6 +75,9 @@ body {
   color: white;
   background: #e68a22;
   padding: 0;
+  bottom: 0;
+  left: 0;
+  width: 100%;
   margin-bottom: 0;
   text-align: center; }
   #footer #logo {
